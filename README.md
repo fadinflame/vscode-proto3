@@ -1,6 +1,6 @@
 # vscode-proto3
 
-[![CI](https://github.com/fadinflame/vscode-proto3/actions/workflows/ci.yml/badge.svg)](https://github.com/zxh0/vscode-proto3/actions/workflows/ci.yml)
+[![CI](https://github.com/fadinflame/vscode-proto3/actions/workflows/ci.yml/badge.svg)](https://github.com/fadinflame/vscode-proto3/actions/workflows/ci.yml)
 
 Protobuf 3 support for Visual Studio Code — syntax, validation, snippets, and quick compile/renumber workflows.
 
