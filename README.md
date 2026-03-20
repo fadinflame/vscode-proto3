@@ -1,15 +1,11 @@
 # vscode-proto3
 
-[![CI](https://github.com/zxh0/vscode-proto3/actions/workflows/ci.yml/badge.svg)](https://github.com/zxh0/vscode-proto3/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/zxh0/vscode-proto3/branch/master/graph/badge.svg)](https://codecov.io/gh/zxh0/vscode-proto3)
-[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/zxh404.vscode-proto3?label=VS%20Code%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/zxh404.vscode-proto3)](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
+[![CI](https://github.com/fadinflame/vscode-proto3/actions/workflows/ci.yml/badge.svg)](https://github.com/zxh0/vscode-proto3/actions/workflows/ci.yml)
 
 Protobuf 3 support for Visual Studio Code — syntax, validation, snippets, and quick compile/renumber workflows.
 
 > ⚠️ **Project is no longer maintained.**
-> Please consider using [Protobuf VSC](https://marketplace.visualstudio.com/items?itemName=drblury.protobuf-vsc) instead.
-> This extension will receive no further updates and is marked as deprecated on the VS Code Marketplace.
+> This extension will receive no further updates.
 > A big thank you to all users and contributors!
 
 ![icon](images/vscode_extension_icon.png)
